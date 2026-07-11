@@ -1,5 +1,3 @@
-# excel-sales-analysis
-Excel portofolio project for sales data analysis
 # Excel Portfolio Project
 ## Project Overview
 This project analyzes a dataset using Microsoft Excel.
