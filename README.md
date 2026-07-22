@@ -38,6 +38,7 @@ The dataset includes intentional data quality issues such as inconsistent text f
 - Electronics generated the highest clean revenue.
 - Stationery had the strongest profit margin.
 - Makassar was the strongest region by clean revenue.
+- Corporate was the highest channel by clean revenue.
 - 114 rows required review before being used for dashboard decisions.
 
 ## Dashboard Preview
